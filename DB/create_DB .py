@@ -11,7 +11,7 @@ DB_name = "market_data"
 db_settings = {
     "host": 'localhost',
     "database": DB_name,
-    "user": 'root',
+    "user": '●●',
     "password": '●●',
     "port":3306
 }
